@@ -1,3 +1,4 @@
+
 # Insertion Array - Java Implementation
 
 ## Overview
@@ -11,6 +12,9 @@ This repository contains a Java implementation of an insertion array data struct
 - **Thread-Safe Option**: Synchronized version available
 
 ## Class Structure
+
+
+
 
 ### InsertionArray<T>
 The main class implementing the insertion array functionality.
