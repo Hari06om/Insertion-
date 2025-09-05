@@ -15,9 +15,6 @@ This repository contains a Java implementation of an insertion array data struct
 
 
 
-
-
-
 ### InsertionArray<T>
 The main class implementing the insertion array functionality.
 
